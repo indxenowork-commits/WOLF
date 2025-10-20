@@ -1,0 +1,36 @@
+__pycache__/
+.vscode
+.idea
+*.py[cod]
+env/*
+.venv/*
+config.py
+*.log
+migrations/
+.DS_Store
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Poetry
+poetry.lock
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
