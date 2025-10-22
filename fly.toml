@@ -4,7 +4,7 @@
 #
 
 app = 'wolf-sntr-q'
-primary_region = 'iad'
+primary_region = 'bom'
 
 [build]
 
